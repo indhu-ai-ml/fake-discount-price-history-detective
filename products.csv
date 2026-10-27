@@ -1,0 +1,10 @@
+product_id,product_name,store,recorded_date,price
+P001,Wireless Headphones,Store A,2026-10-01,1999
+P001,Wireless Headphones,Store A,2026-10-08,1899
+P001,Wireless Headphones,Store A,2026-10-15,999
+P002,Bluetooth Speaker,Store A,2026-10-01,2499
+P002,Bluetooth Speaker,Store A,2026-10-08,2299
+P002,Bluetooth Speaker,Store A,2026-10-15,2199
+P003,Smart Watch,Store B,2026-10-01,3999
+P003,Smart Watch,Store B,2026-10-08,3999
+P003,Smart Watch,Store B,2026-10-15,1999
